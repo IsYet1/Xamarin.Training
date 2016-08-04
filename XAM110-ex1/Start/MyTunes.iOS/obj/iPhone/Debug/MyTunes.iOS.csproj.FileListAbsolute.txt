@@ -1,0 +1,12 @@
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\optimized\
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.exe
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.pdb
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.exe
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.pdb
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\obj\iPhone\Debug\MyTunesiOS.exe.mdb
+C:\Git\Xamarin.Training\XAM110-ex1\Start\MyTunes.iOS\bin\iPhone\Debug\MyTunesiOS.exe.mdb
