@@ -1,5 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\git\xamarin.training\xam110-ex1\start\mytunes.wp8\obj\debug\intermediatexaml\mytunes.wp8.exe" HashGuid="a81567de-b512-0394-7fa9-ee5db5e14240" />
     <ReferenceAssembly PathName="c:\git\xamarin.training\xam110-ex1\start\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
