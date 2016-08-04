@@ -20,9 +20,17 @@ namespace MyTunes
 
 		private static Stream OpenData()
 		{
-			// TODO: add code to open file here.
-			return null;
-		}
+#if __IOS__
+    return File.OpenRead(Filename);
+
+#endif
+
+#if __ANDROID__
+            return Android.App.Application.Context.Assets.Open(Filename);
+#endif
+            // TODO: add code to open file here.
+            return null;
+        }
 	}
 }
 
